@@ -1,0 +1,2 @@
+class Fragment_name {
+}
